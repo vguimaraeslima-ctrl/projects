@@ -162,7 +162,7 @@ The reported results therefore should not be interpreted as a guarantee of futur
 football-match-prediction/
 │
 ├── README.md
-├── Football_Match_Outcome_Prediction.ipynb
+├── quarter-final head-to-head prediction.ipynb
 └── screenshots/
     ├── overview.png
     ├── features.png
@@ -176,4 +176,4 @@ football-match-prediction/
 
 The complete analysis, modelling process and results are available in:
 
-`Football_Match_Outcome_Prediction.ipynb`
+`quarter-final head-to-head prediction.ipynb`
