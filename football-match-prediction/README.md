@@ -158,7 +158,7 @@ The corresponding predicted winners were:
 
 The calculation behind these predictions is shown below.
 
-![Quarter-final prediction calculation](screenshots/08-quarter-final-calculation.png)
+![Quarter-final prediction calculation](screenshots/08-plot.png)
 
 ---
 
