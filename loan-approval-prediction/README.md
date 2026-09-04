@@ -37,7 +37,7 @@ The target variable is:
 
 The analysis begins by examining the structure of the dataset, missing values, categorical variables, and numerical distributions.
 
-![Exploratory Analysis](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/03-exploratory-analysis.png)
+![Exploratory Analysis](https://github.com/vguimaraeslima-ctrl/projects/blob/8a30ffa2b0feaf683d8b78fe3dda23e655c70b50/loan-approval-prediction/screenshots/03-exploratory-analysis.png)
 
 The exploratory analysis provides an overview of the characteristics of the applicants and the distribution of loan approval outcomes.
 
