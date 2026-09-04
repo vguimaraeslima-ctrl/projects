@@ -90,7 +90,7 @@ It achieved:
 
 The result is particularly interesting because the simpler Logistic Regression model outperformed the tree-based and boosting approaches evaluated in this project.
 
-![Model Comparison](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/05-model-comparison.png)
+![Model Comparison](https://github.com/vguimaraeslima-ctrl/projects/blob/ba451fb9199c713f944f5bc88e489de1582f576f/loan-approval-prediction/screenshots/05-model-comparison.png)
 
 ## 📉 ROC Curve Comparison
 
