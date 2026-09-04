@@ -37,7 +37,7 @@ The target variable is:
 
 The analysis begins by examining the structure of the dataset, missing values, categorical variables, and numerical distributions.
 
-![Exploratory Analysis](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/03-exploratory-analysis.png)
+![Exploratory Analysis](https://github.com/vguimaraeslima-ctrl/projects/blob/8a30ffa2b0feaf683d8b78fe3dda23e655c70b50/loan-approval-prediction/screenshots/03-exploratory-analysis.png)
 
 The exploratory analysis provides an overview of the characteristics of the applicants and the distribution of loan approval outcomes.
 
@@ -54,7 +54,7 @@ A preprocessing pipeline was implemented using:
 
 The dataset was divided into training and test sets using stratified sampling.
 
-![Data Preparation](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/04-data-preparation.png)
+![Data Preparation](https://github.com/vguimaraeslima-ctrl/projects/blob/0ba3f9731d6bab7502548b93aada0f98447d7472/loan-approval-prediction/screenshots/04-data-preparation.png)
 
 ## 🤖 Machine Learning Models
 
@@ -90,13 +90,13 @@ It achieved:
 
 The result is particularly interesting because the simpler Logistic Regression model outperformed the tree-based and boosting approaches evaluated in this project.
 
-![Model Comparison](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/05-model-comparison.png)
+![Model Comparison](https://github.com/vguimaraeslima-ctrl/projects/blob/ba451fb9199c713f944f5bc88e489de1582f576f/loan-approval-prediction/screenshots/05-model-comparison.png)
 
 ## 📉 ROC Curve Comparison
 
 The ROC curve comparison provides another view of the models' ability to distinguish between approved and rejected loan applications.
 
-![ROC Curve Comparison](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/06-roc-curve-comparison.png)
+![ROC Curve Comparison](https://github.com/vguimaraeslima-ctrl/projects/blob/0df195967e4f7319d09e8960dfd2db0708f874c6/loan-approval-prediction/screenshots/06-roc-curve-comparison.png)
 
 Logistic Regression achieved the highest ROC-AUC among the evaluated models at **0.852**.
 
@@ -104,7 +104,7 @@ Logistic Regression achieved the highest ROC-AUC among the evaluated models at *
 
 Feature importance analysis was used to identify the variables that contributed most strongly to the Random Forest predictions.
 
-![Feature Importance](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/07-feature-importance.png)
+![Feature Importance](https://github.com/vguimaraeslima-ctrl/projects/blob/cd5abc41f14c6b7e276a3050f786ecd88572047f/loan-approval-prediction/screenshots/07-feature-importance.png)
 
 The most influential variables included:
 
