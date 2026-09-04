@@ -54,7 +54,7 @@ A preprocessing pipeline was implemented using:
 
 The dataset was divided into training and test sets using stratified sampling.
 
-![Data Preparation](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/04-data-preparation.png)
+![Data Preparation](https://github.com/vguimaraeslima-ctrl/projects/blob/0ba3f9731d6bab7502548b93aada0f98447d7472/loan-approval-prediction/screenshots/04-data-preparation.png)
 
 ## 🤖 Machine Learning Models
 
