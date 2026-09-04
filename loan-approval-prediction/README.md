@@ -104,7 +104,7 @@ Logistic Regression achieved the highest ROC-AUC among the evaluated models at *
 
 Feature importance analysis was used to identify the variables that contributed most strongly to the Random Forest predictions.
 
-![Feature Importance](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/07-feature-importance.png)
+![Feature Importance](https://github.com/vguimaraeslima-ctrl/projects/blob/cd5abc41f14c6b7e276a3050f786ecd88572047f/loan-approval-prediction/screenshots/07-feature-importance.png)
 
 The most influential variables included:
 
