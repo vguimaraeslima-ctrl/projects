@@ -96,7 +96,7 @@ The result is particularly interesting because the simpler Logistic Regression m
 
 The ROC curve comparison provides another view of the models' ability to distinguish between approved and rejected loan applications.
 
-![ROC Curve Comparison](https://raw.githubusercontent.com/vguimaraeslima-ctrl/projects/machine-learning/loan-approval-prediction/screenshots/06-roc-curve-comparison.png)
+![ROC Curve Comparison](https://github.com/vguimaraeslima-ctrl/projects/blob/0df195967e4f7319d09e8960dfd2db0708f874c6/loan-approval-prediction/screenshots/06-roc-curve-comparison.png)
 
 Logistic Regression achieved the highest ROC-AUC among the evaluated models at **0.852**.
 
